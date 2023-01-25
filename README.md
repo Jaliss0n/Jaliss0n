@@ -1,4 +1,4 @@
-### Olá Sou o Jalisson Santos ✌, Estudante de Ciencia da Computação no 8º semestre 💻, em busca de uma primeira oportunidade no mercado de trabalho.
+### Olá Sou o Jalisson Santos ✌
 
 <div align="center">
   <a href="https://github.com/jaliss0n">
